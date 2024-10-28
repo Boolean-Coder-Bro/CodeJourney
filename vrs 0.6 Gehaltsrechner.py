@@ -336,4 +336,10 @@ while True:
         ändern_indexListe(Gehalt_dict,"Einkommen-Ehepartners | ",11,f"Steuerklasse           |{Ehe_Sk:^10} |")
         continue 
         """
-   
+    """ As you can see i have to fix  a few issues here my main Problem is that my local Variables 
+        does not seem to  apply my values korrectly. I have to figure out the Problem and
+        while i am at it  i have to write the code cleaner and upgrade it,
+        for example:
+        I  will Change the variable Names used in this File to shorter ones
+        
+    """
